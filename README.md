@@ -1,1 +1,3 @@
 http://blog.csdn.net/csdnbsd/article/details/51850826
+
+Android 微信支付 的一些大坑   返回-1 or....
